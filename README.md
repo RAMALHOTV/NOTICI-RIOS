@@ -4,14 +4,14 @@
 http://distv.
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/118
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/225
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="ENTRETENIMENTO",GNT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/155
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://distv.net/icons/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/235
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bb95e6c45c58aea39e6fdfe87185c4bb.png" group-title="Brazil",BR: Record News HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14540
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2c3ccc72192f58d85006755f44de4ee8.png" group-title="Brazil",BR: Globo News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14513
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d28d24f816db20ed14be5bed3411a00f.png" group-title="Brazil",BR: Band News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14486
+
+
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Notícias", Notícias
 http://212.224.9
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
