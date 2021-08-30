@@ -5,10 +5,6 @@ http://distv.
 
 
 
-#EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Notícias", Notícias
-http://212.224.9
-#################################### Notícias
-
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -28,6 +24,7 @@ http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v2a1/mono.m3u8?PEDROJUN
 http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
+http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YGEVYXL.png" group-title="Notícias",Boston 25 News
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
